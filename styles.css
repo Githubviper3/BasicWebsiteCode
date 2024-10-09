@@ -6,7 +6,7 @@ body {
     
 }
 
-#MainCard {
+.MainCard {
     width: 600px;
     margin: 5em auto;
     padding: 2em;
@@ -16,16 +16,6 @@ body {
 }
 
 
-a:link, a:visited {
-    color: #38488f;
-    text-decoration: none;
-}
-@media (max-width: 700px) {
-    div {
-        margin: 0 auto;
-        width: auto;
-    }
-}
 
 .grid-container {
     display: grid;
